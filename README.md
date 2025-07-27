@@ -71,8 +71,8 @@ As descrições das classes estão disponíveis no arquivo [modelo-conceitual.md
 | Nome                                  | Matrícula          | 
 |---------------------------------------|--------------------|
 | Geovanna Ludmila Almeida da Silva     | 20241011110024     |
-| Aluno2                                | matrícula          |
-| Aluno3                                | matrícula          |
-| Aluno4                                | matrícula          |
+| Gabriel Isaias Gomes da Silva         | 20241011110012     |
+| Deyvid Jhonatan dos Santos Costa      | 20241011110029     |
+| Francisco Davi Miranda de Oliveira    | 20241011110031     |
 
 
