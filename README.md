@@ -61,12 +61,10 @@ As descrições das classes estão disponíveis no arquivo [modelo-conceitual.md
 
 ### 🛠️Tecnologias Utilizadas
 - Documentação escrita em Markdown
-- Diagramas elaborados com 
+- Diagramas elaborados com PlantUML
 - Repositório hospedado no GitHub
 
-
 ### 👨‍💻Equipe
-
 
 | Nome                                  | Matrícula          | 
 |---------------------------------------|--------------------|
