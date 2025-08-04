@@ -21,10 +21,20 @@ O sistema do iFriends tem o objetivo de disponibilizar uma rede social para estu
 * Público externo (visitantes, idosos, organizadores de eventos, palestrantes)
 * Futuros ingressados do instituto
 
-#### Restrições e Premissas: ####
+#### Restrições ####
+* Acesso completo apenas para usuários autenticados
+* Deve seguir a LGPD (Lei Geral de Proteção de Dados)
+* Limitada à infraestrutura disponível do IFRN
+
+#### Premissas: ####
+* Usuários terão internet e dispositivos compatíveis
+* Setores do IFRN participarão da plataforma
+* Haverá apoio institucional para manutenção
+* Dados institucionais estarão disponíveis para integração
 
 
 
   
+
 
 
