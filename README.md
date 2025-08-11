@@ -44,9 +44,9 @@ ex: postagens, provas anteriores, sistema de dúvidas etc.
 
 Os principais casos de uso identificados são:
 
-1. **Realizar cadastro de usuário**
+1. **Realizar cadastro de usuário evento**
 
-2. **Consultar Provas anteriores**
+2. **Postar conteudo**
 
 3. **Apoio acadêmico**
 
